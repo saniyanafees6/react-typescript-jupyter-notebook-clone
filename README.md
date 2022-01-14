@@ -1,1 +1,1 @@
-# Jupyter Notebook Clone, Built in React TypeScript
+# Jupyter Notebook Clone, Built with React TypeScript
